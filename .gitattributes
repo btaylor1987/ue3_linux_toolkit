@@ -1,0 +1,2 @@
+dist/dotnet-hosting-6.0.24-win.exe filter=lfs diff=lfs merge=lfs -text
+dist/windowsdesktop-runtime-6.0.23-win-x64.exe filter=lfs diff=lfs merge=lfs -text

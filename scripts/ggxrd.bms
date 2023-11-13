@@ -1,0 +1,118 @@
+# GUILTY GEAR Xrd -REVELATOR- -Sign- upk decrypter (0.1a)
+#   original code by gdkchan and Altimor:
+#   https://github.com/gdkchan/GGXrdRevelatorDec/blob/master/GGXrdRevelator/Program.cs
+# script for QuickBMS http://quickbms.aluigi.org
+# Modified on Nov. 10 2023 by Brian A. Taylor (brian.a.taylor1987@gmail.com) for Linux compatibiltiy
+
+get TEST long
+goto 0
+if TEST == 0x9e2a83c1
+    print "Your file is NOT encrypted, you don't need this script"
+    cleanexit
+endif
+
+putarray 10 -1 0
+putarray 10 -1 0x72642a6f    # -revel
+putarray 10 -1 0x43415046    # -sign
+putarray 10 -1 ""
+
+get NAME filename
+string NAME u NAME
+strlen NAMESZ NAME
+math Seed = 0
+for i = 0 < NAMESZ
+    getvarchr Chr NAME i
+    math Seed * 137
+    math Seed + Chr
+next i
+
+for TRY = 0
+    getarray OutVal 10 TRY
+    if OutVal == ""
+        print "Error: unavailable Seed for decryption"
+        cleanexit
+    endif
+    math SIZE = 4
+    log MEMORY_FILE 0 SIZE
+    callfunction DECRYPT 1
+    if OutVal == 0x9e2a83c1
+        break
+    endif
+next TRY
+getarray OutVal 10 TRY
+print "Use OutVal %OutVal|x%"
+
+get SIZE asize
+log MEMORY_FILE 0 SIZE
+callfunction DECRYPT 1
+
+get NAME basename
+get EXT extension
+string NAME + "."
+string NAME + EXT
+log NAME 0 SIZE MEMORY_FILE
+
+startfunction DECRYPT
+    callfunction MersenneTwister 1
+
+    math TMP_SIZE = SIZE
+    math TMP_SIZE y 4
+    for OFFSET = 0 < TMP_SIZE
+        callfunction GenRandomNumber 1
+
+        getvarchr Chr32 MEMORY_FILE OFFSET long
+        math OutVal ^ Value
+        math OutVal ^ Chr32
+        putvarchr MEMORY_FILE OFFSET OutVal long
+    next OFFSET + 4
+endfunction
+
+
+
+
+startfunction MersenneTwister
+    math MT_Length = 624
+    # array 0 is MT
+    putarray 0 0 Seed
+    putarray 0 MT_Length 0
+    for i = 0 < MT_Length
+        getarray Prev 0 i
+        math i + 1
+        xmath TMP "0x6c078965 * (Prev ^ (Prev >> 30)) + i"
+        putarray 0 i TMP
+    next
+    math Index = MT_Length
+endfunction
+
+startfunction Twist
+    for i = 0 < MT_Length
+        getarray TMP 0 i
+        xmath j "(i + 1) % MT_Length"
+        getarray TMP1 0 j
+        xmath Value "(TMP & 0x80000000) + (TMP1 & 0x7fffffff)"
+        xmath j "(i + 397) % MT_Length"
+        getarray TMP1 0 j
+        xmath TMP "TMP1 ^ (Value >> 1)"
+        putarray 0 i TMP
+        if Value & 1
+            math TMP ^ 0x9908b0df;
+            putarray 0 i TMP
+        endif
+    next i
+    math Index = 0
+endfunction
+
+startfunction GenRandomNumber
+    if Index >= MT_Length
+        callfunction Twist 1
+    endif
+
+    getarray Value 0 Index
+    math Index + 1
+
+    xmath Value "Value ^ Value >> 11"
+    xmath Value "Value ^ (Value << 7) & 0x9d2c5680"
+    xmath Value "Value ^ (Value << 15) & 0xefc60000"
+    xmath Value "Value ^ Value >> 18"
+endfunction
+

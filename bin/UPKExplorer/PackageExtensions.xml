@@ -1,0 +1,4 @@
+﻿<PackageExtensions xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<!--<List of package file extensions used to find packages in the game's folders-->
+	<values>.apb;.ass;.bdc;.blk;.bmap;.bkx;.bsm;.bsx;.btx;.caggame;.ccpk;.dmap;.ebax;.ebkx;.ebsx;.ebtx;.goat;.gpk;.hmap;.kteka;.lm;.lvl;.mbamap;.me1;.map;.pcc;.pda;.pkg;.ppk;.rbd;.rbx;.roe;.rmpc;.rota;.rott;.rtc;.s8m;.saw;.sanctum;.sfm;.tlr;.tpk;.tpm;.trk;.u;.uax;.udk;.uea;.uem;.ukx;.umap;.umd;.ums;.upk;.uppc;.usx;.ut2;.ut3;.utx;.war;.xxx</values>
+</PackageExtensions>

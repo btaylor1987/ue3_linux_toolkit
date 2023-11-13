@@ -1,0 +1,5 @@
+﻿<Game packageFileVersion="846" packageLicenseeVersion="108" TFCMappingFileName="X-Com 2 Collection" platform="Switch" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="CookedNX64" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

@@ -1,0 +1,41 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="goatgame\cookedpc\backups\goatgame.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Characters\Textures\KA_Dif_01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="goatgame\cookedpc\core.u" />
+    <Package path="goatgame\cookedpc\engine.u" />
+    <Package path="goatgame\cookedpc\gameframework.u" />
+    <Package path="goatgame\cookedpc\gfxui.u" />
+    <Package path="goatgame\cookedpc\gfxuieditor.u" />
+    <Package path="goatgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="goatgame\cookedpc\goatgame.u" />
+    <Package path="goatgame\cookedpc\guidcache.upk" />
+    <Package path="goatgame\cookedpc\ipdrv.u" />
+    <Package path="goatgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="goatgame\cookedpc\packages\ui_loading.upk" />
+    <Package path="goatgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="goatgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="goatgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="goatgame\cookedpc\startup_loc_ara.upk" />
+    <Package path="goatgame\cookedpc\startup_loc_chs.upk" />
+    <Package path="goatgame\cookedpc\startup_loc_cht.upk" />
+    <Package path="goatgame\cookedpc\startup_loc_int.upk" />
+    <Package path="goatgame\cookedpc\startup_loc_jpn.upk" />
+    <Package path="goatgame\cookedpc\startup_loc_kor.upk" />
+    <Package path="goatgame\cookedpc\startup_loc_rus.upk" />
+    <Package path="goatgame\cookedpc\startup.upk" />
+    <Package path="goatgame\cookedpc\udkbase_loc_ara.upk" />
+    <Package path="goatgame\cookedpc\udkbase_loc_chs.upk" />
+    <Package path="goatgame\cookedpc\udkbase_loc_cht.upk" />
+    <Package path="goatgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="goatgame\cookedpc\udkbase_loc_jpn.upk" />
+    <Package path="goatgame\cookedpc\udkbase_loc_kor.upk" />
+    <Package path="goatgame\cookedpc\udkbase_loc_rus.upk" />
+    <Package path="goatgame\cookedpc\udkbase.u" />
+    <Package path="goatgame\cookedpc\unrealed.u" />
+    <Package path="goatgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

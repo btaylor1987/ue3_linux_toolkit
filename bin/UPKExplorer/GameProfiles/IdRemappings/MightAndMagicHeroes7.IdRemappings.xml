@@ -1,0 +1,9 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="engine\content\maps\entry.upk" />
+    <Package path="engine\content\maps\templates\template_afternoon.umap" />
+    <Package path="engine\content\maps\templates\template_midday.umap" />
+    <Package path="engine\content\maps\templates\template_morning.umap" />
+    <Package path="engine\content\maps\templates\template_night.umap" />
+  </Packages>
+</IdRemapping>

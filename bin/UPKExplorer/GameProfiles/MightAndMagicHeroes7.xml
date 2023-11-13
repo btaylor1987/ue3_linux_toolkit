@@ -1,0 +1,5 @@
+﻿<Game packageFileVersion="867" packageLicenseeVersion="0" TFCMappingFileName="Might and Magic Heroes VII" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="MMH7Game\CookedPC\*" TFCpath="MMH7Game\CookedPC" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

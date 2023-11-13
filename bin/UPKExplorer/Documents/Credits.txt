@@ -1,0 +1,13 @@
+Authors:
+FCH823: Functional requirements, software development
+Wastelander121: Functional requirements, testing, research
+
+Special thanks:
+Gildor for UE Viewer source code: https://www.gildor.org/. This allowed me to understand how to read Unreal 3 UPK/TFC files
+NeverAloneInTheAsylum for the help with the integrity check
+
+I also used a number of .Net libraries, so credits to:
+Nominom for BCnEncoder.NET : https://github.com/Nominom/BCnEncoder.NET
+SixLabors for ImageSharp https://github.com/SixLabors/ImageSharp
+Aloneguid for IronCompress https://github.com/aloneguid/ironcompress
+Zyborg for zlib.net https://github.com/zyborg/zlib.net

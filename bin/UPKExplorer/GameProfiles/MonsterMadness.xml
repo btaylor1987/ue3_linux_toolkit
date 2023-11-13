@@ -1,0 +1,5 @@
+﻿<Game packageFileVersion="429" packageLicenseeVersion="0" TFCMappingFileName="Monster Madness" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="MonsterGame\CookedPC\*" TFCpath="MonsterGame\CookedPC" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

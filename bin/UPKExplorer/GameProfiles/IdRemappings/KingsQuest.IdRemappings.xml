@@ -1,0 +1,613 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_acornencounter_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_acornencounter_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_acornencounter_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_acornencounter_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_acornencounter_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_alchemistshop_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_backroad_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_backroad_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_backroad_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_backroad_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_backroad_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_backroad_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_bakeryshop_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlespeed1_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlespeed1_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlespeed1_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlespeed1_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlespeed1_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlestrength_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlestrength_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlestrength_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlestrength_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlestrength_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewits_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewits_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewits_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewits_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewits_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewitsb_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewitsb_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewitsb_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_battlewitsb_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_birchrun_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_birchrun_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_birchrun_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_birchrun_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_birchrun_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_blacksmithshop_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_brokendowncart_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_brokendowncart_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_brokendowncart_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_brokendowncart_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_brokendowncart_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_brokendowncart_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_2" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_courtyard_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_courtyard_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_courtyard_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_courtyard_d.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_courtyard_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_diningtable_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_diningtable_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_diningtable_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_diningtable_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_diningtable_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_eyepresentation_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_eyepresentation_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_eyepresentation_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_eyepresentation_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_forestoverlook_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_forestoverlook_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_forestoverlook_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_forestoverlook_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_forestoverlook_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_frogs_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_frogs_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_frogs_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_frogs_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_frogs_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblincaveentrance_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblincaveentrance_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblincaveentrance_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblincaveentrance_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblincaveentrance_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinholes_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinholes_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinholes_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinholes_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinholes_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_2" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinrocks01_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinrocks01_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinrocks01_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinrocks01_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_goblinrocks01_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_3" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroom_a_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedrooma_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedrooma_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedrooma_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedrooma_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomb_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomb_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomb_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomb_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomend_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomend_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomend_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomend_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_grahambedroomend_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedrooma_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedrooma_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedrooma_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedrooma_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedroomb_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedroomb_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedroomb_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_gwendolynbedroomb_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_hub.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_legendarybeast_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_legendarybeast_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_legendarybeast_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_legendarybeast_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_legendarybeast_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_mannyvictories_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_mannyvictories_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_mannyvictories_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_mannyvictories_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01_d.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge01b_d.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_aa_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_aa_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_aa_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_aa_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_ab_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_ab_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_ab_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_ab_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_c_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_c_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_c_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_c_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge02_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge03_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge03_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge03_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge03_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_missingbridge03_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_6" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_moat_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_moat_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_moat_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_moat_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_moat_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_olfie_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_olfie_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_olfie_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_olfie_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_olfie_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_overlooktumble_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_overlooktumble_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarebridge_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarebridge_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarebridge_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarebridge_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarebridge_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarehill_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarehill_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarehill_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarehill_d.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_2" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pillarehill_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pumpkinpatch_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pumpkinpatch_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pumpkinpatch_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pumpkinpatch_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_pumpkinpatch_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="5" />
+        <Object id="Texture2D_4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_ropearrowgate_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_ropearrowgate_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_ropearrowgate_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_ropearrowgate_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_ropearrowgate_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_c_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_c_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_c_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_c_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_snarlingbush_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="7" />
+        <Object id="Texture2D_2" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_spookyforest_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="8" />
+        <Object id="Texture2D_2" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_strengthentrance_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_strengthentrance_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_strengthentrance_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_strengthentrance_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_strengthentrance_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketa_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketa_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketa_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketa_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketa_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="9" />
+        <Object id="Texture2D_2" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketb_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketb_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketb_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketb_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_thicketb_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="6" />
+        <Object id="Texture2D_4" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_tournamenttheater_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_tournamenttheater_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_tournamenttheater_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_tournamenttheater_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_tournamenttheater_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townentrance_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townentrance_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townentrance_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townentrance_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_a_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_a_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_a_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_a_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_b_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_b_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_b_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_b_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_townsquare_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_triumphtrap_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_triumphtrap_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_triumphtrap_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_triumphtrap_d.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="10" />
+        <Object id="Texture2D_2" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_triumphtrap_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_trollmeeting_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_trollmeeting_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_trollmeeting_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_trollmeeting_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_trollmeeting_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_6" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_windchimes_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_windchimes_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_windchimes_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_windchimes_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_windchimes_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="7" />
+        <Object id="Texture2D_4" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamber_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamber_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamber_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamber_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamber_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamberbckwd_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamberbckwd_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamberbckwd_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_antechamberbckwd_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavebckwd_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavebckwd_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavebckwd_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavebckwd_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavefwd_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavefwd_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavefwd_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavefwd_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedcavefwd_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedraft_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedraft_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedraft_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bedraft_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgea_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgea_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgea_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgea_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgefall_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgefall_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgefall_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_bridgefall_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_climbropearrow_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_dragonfeedingpuzzle_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_dragonfeedingpuzzle_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_dragonfeedingpuzzle_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_dragonfeedingpuzzle_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_dragonfeedingpuzzle_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_drawbridge_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_drawbridge_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_drawbridge_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_drawbridge_m.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_findbow_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_findbow_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_findbow_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_findbow_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_forestopening_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_forestopening_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hallwaydragonface_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hallwaydragonface_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hallwaydragonface_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hallwaydragonface_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hangingbedsa_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hangingbedsa_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hangingbedsa_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_hangingbedsa_m.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="11" />
+        <Object id="Texture2D_2" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_pickupmirror_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_pickupmirror_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_pickupmirror_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_pickupmirror_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_sidle_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_sidle_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_sidle_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_sidle_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_twoswitches_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_twoswitches_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_twoswitches_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_twoswitches_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldownrope_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldownrope_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldownrope_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldownrope_m.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldragonchoice_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldragonchoice_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldragonchoice_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl1_welldragonchoice_m.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_antechamber_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_antechamber_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_antechamber_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_antechamber_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_antechamber_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bedcavefwd_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bedcavefwd_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bedcavefwd_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bedcavefwd_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bedcavefwd_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bridgea_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bridgea_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bridgea_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_bridgea_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_cagepuzzle_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_cagepuzzle_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_cagepuzzle_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_cagepuzzle_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_cagepuzzle_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodge_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodge_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodge_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodge_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodge_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodgea_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodgea_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodgea_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodgea_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_caveflamedodgea_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_fallingdeeper_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_fallingdeeper_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_forestwell_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_forestwell_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_forestwell_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_forestwell_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_forestwell_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_hangingbedsa_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="12" />
+        <Object id="Texture2D_2" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_hangingbedsa_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_hangingbedsa_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_hangingbedsa_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_hangingbedsa_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_ropepuzzle_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_ropepuzzle_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_ropepuzzle_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_ropepuzzle_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_ropepuzzle_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_trapcorridor_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_trapcorridor_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_trapcorridor_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_trapcorridor_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_trapcorridor_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_twoswitches_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_twoswitches_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_twoswitches_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_twoswitches_m.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_welldownrope_m_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_welldownrope_m_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_welldownrope_m_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_welldownrope_m.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalecrawl_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalecrawl_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalecrawl_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalecrawl_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalecrawl_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinaledragon_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinaledragon_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinaledragon_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinaledragon_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinaledragon_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalewalk1_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalewalk1_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalewalk2_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalewalk2_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalewalk2_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalewalk2_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wl2_wellfinalewalk2_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftrap_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftrap_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftrap_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftrap_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftrap_lo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="18" />
+        <Object id="Texture2D_3" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftunnel_d_loc_deu.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftunnel_d_loc_fra.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftunnel_d_loc_int.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftunnel_d.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\e1_wolftunnel_lo.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\guidcache_e1.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="dlc\e1\content\grahamsgame\cookedpcconsole\refshadercache-pc-opengl.upk" />
+    <Package path="grahamsgame\cookedpcconsole\core.upk" />
+    <Package path="grahamsgame\cookedpcconsole\engine.upk" />
+    <Package path="grahamsgame\cookedpcconsole\episodeselector_lo.upk" />
+    <Package path="grahamsgame\cookedpcconsole\episodeselector.upk" />
+    <Package path="grahamsgame\cookedpcconsole\gameframework.upk" />
+    <Package path="grahamsgame\cookedpcconsole\gfxui.upk" />
+    <Package path="grahamsgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="grahamsgame\cookedpcconsole\grahamsgame.upk" />
+    <Package path="grahamsgame\cookedpcconsole\guidcache.upk" />
+    <Package path="grahamsgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="grahamsgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="grahamsgame\cookedpcconsole\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="grahamsgame\cookedpcconsole\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="grahamsgame\cookedpcconsole\refshadercache-pc-opengl.upk" />
+    <Package path="grahamsgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="grahamsgame\cookedpcconsole\startup.upk" />
+    <Package path="grahamsgame\cookedpcconsole\windrv.upk" />
+  </Packages>
+</IdRemapping>
