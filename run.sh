@@ -57,7 +57,10 @@ function extract {
     for i in ${OUTDIR}/*
     do
         echo "processing $i"
-        umodel -export $i -out=${EXTDIR} &>/dev/null
+        umodel -game=guilty -gltf -dds -uc -export $i -out=${EXTDIR} &>/dev/null
+        if [[ $i =~ .*MSH.* ]]; then
+            wine bin/extract.exe -game=guilty $i  -out=${EXTDIR}
+        fi
     done
 
     echo "Extraction complete"
@@ -85,7 +88,7 @@ if [[ "$0" == "$BASH_SOURCE" ]] ; then
     echo "#################################################"
 fi
 create_directories
-decrypt
+#decrypt
 extract
 echo ${wine_bin}
 if [[ -f ${wine_bin} ]] ; then

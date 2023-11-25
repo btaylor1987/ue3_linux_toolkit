@@ -1,2 +1,5 @@
+!*empty.file
 notify.log
+workdir/*
+extracted_files/*
 *.upk
