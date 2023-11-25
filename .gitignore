@@ -1,5 +1,7 @@
 !*empty.file
+!put_encrypted*
 notify.log
 workdir/*
 extracted_files/*
+game_files_here/*
 *.upk
