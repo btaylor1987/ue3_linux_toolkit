@@ -88,7 +88,7 @@ if [[ "$0" == "$BASH_SOURCE" ]] ; then
     echo "#################################################"
 fi
 create_directories
-#decrypt
+decrypt
 extract
 echo ${wine_bin}
 if [[ -f ${wine_bin} ]] ; then
