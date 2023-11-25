@@ -57,7 +57,7 @@ function extract {
     for i in ${OUTDIR}/*
     do
         echo "processing $i"
-        umodel -game=guilty -gltf -dds -export $i -out=${EXTDIR} &>/dev/null
+        umodel -game=guilty -export $i -out=${EXTDIR}
         if [[ $i =~ .*MSH.* ]]; then
             wine bin/extract.exe -game=guilty $i  -out=${EXTDIR}
         fi
