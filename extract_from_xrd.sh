@@ -72,16 +72,6 @@ function extract {
     echo "Extraction complete"
 }
 
-function start_windows_tools {
-    echo "Starting UPK Explorer and the PNGtoDDS Converter"
-    pushd $(pwd)/bin/UPKExplorer &> /dev/null
-    wine UPK\ Explorer.exe &>/dev/null &
-    popd &> /dev/null
-    pushd $(pwd)/bin/PNGtoDSS &>/dev/null
-    wine DDSConverter.exe &>/dev/null &
-    popd &>/dev/null
-}
-
 init
 if [[ "$0" == "$BASH_SOURCE" ]] ; then
     echo "#################################################"
