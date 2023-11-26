@@ -42,10 +42,14 @@ function check_for_dotnet_in_wineprefix {
 
 
 function decrypt {
-    for i in ${INDIR}/*
+    for i in ${INDIR}/*.upk
     do
-        echo "Processing $i"
-        quickbms -Y $(pwd)/scripts/ggxrd.bms $i ${OUTDIR} &>/dev/null
+        if [[ ! -f ${OUTDIR}/$(basename $i) ]] ; then
+            echo "Decrypting $i..."
+            quickbms -Y $(pwd)/scripts/ggxrd.bms $i ${OUTDIR} &>/dev/null
+        else
+            echo "$(basename $i) present in ${OUTDIR}, skipping decryption..."
+        fi
     done
 
     echo "Decryption complete."
@@ -54,12 +58,14 @@ function decrypt {
 function extract {
     echo "Extracting files"
 
-    for i in ${OUTDIR}/*
+    for i in ${OUTDIR}/*.upk
     do
-        echo "processing $i"
-        umodel -game=guilty -export $i -out=${EXTDIR}
-        if [[ $i =~ .*MSH.* ]]; then
-            wine bin/extract.exe -game=guilty $i  -out=${EXTDIR}
+        echo "Extracting data from $(basename $i) with umodel."
+        umodel -game=guilty -export $i -out=${EXTDIR} &> /dev/null
+        if [[ $i =~ .*MSH.* ]] || [[ $i =~ BGM.* ]]; then
+            echo "Extracting raw data from $(basename $i) with extract.exe"
+            # TODO: Find source or write a linux native of this
+            wine bin/extract.exe -game=guilty $i  -out=${EXTDIR} &> /dev/null
         fi
     done
 
@@ -68,12 +74,12 @@ function extract {
 
 function start_windows_tools {
     echo "Starting UPK Explorer and the PNGtoDDS Converter"
-    pushd $(pwd)/bin/UPKExplorer
+    pushd $(pwd)/bin/UPKExplorer &> /dev/null
     wine UPK\ Explorer.exe &>/dev/null &
-    popd
-    pushd $(pwd)/bin/PNGtoDSS
+    popd &> /dev/null
+    pushd $(pwd)/bin/PNGtoDSS &>/dev/null
     wine DDSConverter.exe &>/dev/null &
-    popd
+    popd &>/dev/null
 }
 
 init
@@ -93,9 +99,8 @@ extract
 echo ${wine_bin}
 if [[ -f ${wine_bin} ]] ; then
     check_for_dotnet_in_wineprefix
-    start_windows_tools
 else
-    echo "Wine is not installed.  Skipping dotnet6 check/install and running of UPKExplorer and PNGtoDDS."
+    echo "Wine is not installed.  Skipping dotnet6 check/install and wineprefix setup."
 fi
 
 echo "Your original upk are in ${INDIR}"
