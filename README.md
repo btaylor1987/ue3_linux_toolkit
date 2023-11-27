@@ -30,3 +30,5 @@ Usage:
   *  extract_and_run_upkexplorer.sh will first run `extract_from_xrd.sh` and then will launch `UPKExplorer.exe` and `DDSToPNG.exe` 
 
 * If you want to have your terminal pre setup for the wineprefix and add the `bin/` to your path (for example so you can run umodel) you can `source <scriptname>` which will take exports into your existing shell.  Otherwise just run the scripts and they will do what they say on the tin
+*
+* Lorem Ipsum et Dolor 
